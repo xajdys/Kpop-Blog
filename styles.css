@@ -37,7 +37,18 @@ h1{
 
 a:hover{
     background-color: rgb(149, 33, 149);
-    transition: all 0.3s ease-in;
+    transition: all 0.2s ease-in;
     color: white
+}
+
+figcaption{
+    text-align: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
 }
 
